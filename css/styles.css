@@ -179,7 +179,7 @@ text-align: center;
 }
 
 
-@media (max-width:993px) {
+@media (max-width:1000px) {
   .smartphone {
     position: static;
     transform: rotate(0);
