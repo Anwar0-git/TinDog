@@ -183,8 +183,5 @@ text-align: center;
   .smartphone {
     position: static;
     transform: rotate(0);
-  }
-
-  #title {
-    text-align: center;
+    width: 100%;
   }
